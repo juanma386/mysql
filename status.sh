@@ -2,7 +2,7 @@
 # Author: Villalba Juan Manuel Pedro
 # Version: 0.0.0.1
 # Estado: Alpha
-# Destino: resolver problemas or solved problem's APT-GET
+# Destino: resolver problemas or solved problem's MySql Server
 # Date: 22-02-2018
 # Advertencia: Usar con cautela y bajo propia responsabilidad
 # Status alpha development, to issues fail's to system mysql.
