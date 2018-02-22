@@ -1,2 +1,4 @@
 # mysql
-script to view status sistem
+# Este es un simple script creado por mi.
+# Autor: Villalba Juan Manuel Pedro
+# Destino: facilitar algunos trabajos y fallas simples.
