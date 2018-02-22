@@ -1,4 +1,4 @@
 # mysql
  Este es un simple script creado por mi.
- Autor: Villalba Juan Manuel Pedro
+ <p>Autor: Villalba Juan Manuel Pedro</p>
  Destino: facilitar algunos trabajos y fallas simples.
